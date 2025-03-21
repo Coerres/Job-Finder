@@ -5,6 +5,13 @@
       "expo-router"
     ],
     "name": "job-finder",
-    "slug": "job-finder"
-  }
+    "slug": "job-finder",
+      "android": {
+        "newArchEnabled": true
+      },
+      "ios": {
+        "newArchEnabled": true
+      }
+    }
+  
 }
